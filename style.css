@@ -9,7 +9,7 @@ body{
 }
 
 header{
-    background-color: white;
+    background-color: rgb(211, 35, 102);
     padding: 20px;
 }
 
@@ -21,7 +21,7 @@ header > h1{
 
 .score-board {
     margin: 20px auto;
-    border: 3px solid white;
+    border: 3px solid rgb(169, 15, 230);
     border-radius: 4px;
     width: 200px;
     text-align: center;
