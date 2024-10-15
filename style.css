@@ -75,7 +75,6 @@ header > h1{
     padding: 10px;
     display: inline-block;
     transition: all 0.3s ease;
-    width: 30px;
 }
 
 .choice:hover{
@@ -105,4 +104,8 @@ header > h1{
 .gray-glow{
     border: 4px solid #464647;
     box-shadow: 0 0 10px #25292b;
+}
+
+.imagem{
+    width: 30px;
 }
